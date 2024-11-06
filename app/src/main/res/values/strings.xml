@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="wakemate">Alarm Clock</string>
+
+    <string-array name="alarm_tones">
+        <item>Default Tone</item>
+        <item>Gentle Wake</item>
+        <item>Morning Birds</item>
+        <item>Sunshine</item>
+        <item>Ocean Waves</item>
+    </string-array>
+</resources>
